@@ -1,2 +1,2 @@
 # GPC-Talleres
-Talleres previo al concurso de la GPC 2023
+Contests previos al concurso de la GPC 2023
